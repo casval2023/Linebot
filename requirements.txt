@@ -1,0 +1,8 @@
+scipy
+matplotlib
+seaborn
+chardet
+scikit-learn
+boto3
+json
+subprocess
